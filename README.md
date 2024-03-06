@@ -1,2 +1,2 @@
-# AULAgit_hub1
+# AULA_git_hub1
 mini curso de git IBMEC barra
